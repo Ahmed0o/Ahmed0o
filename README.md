@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmed0o
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
